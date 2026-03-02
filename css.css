@@ -1,0 +1,28 @@
+html{
+    background-color: black;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+.botoes{
+    display: flex;
+    flex-direction: row;
+}
+
+li{
+    color: white;
+    list-style-type: decimal;
+}
+
