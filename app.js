@@ -41,11 +41,12 @@ function remover() {
             tarefa.remove()
             algumaSelecionada = true
         }
-        if (algumaSelecionada == false) {
-            alert("Nenhuma tarefa selecionada")
-        }
-        if (listaTarefas.children.length == 0) {
-            listaTarefas.classList.add('escondido')
-        }
     });
+
+    if (algumaSelecionada == false) {
+        alert("Nenhuma tarefa selecionada")
+    }
+    if (listaTarefas.children.length == 0) {
+        listaTarefas.classList.add('escondido')
+    }
 }
