@@ -2,7 +2,7 @@
 Um gerenciador de tarefas dinâmico que permite ao usuário organizar suas atividades diárias com uma interface limpa e intuitiva. O projeto foca em manipulação do DOM e experiência do usuário (UX).
 
 🚀 Funcionalidades:
-Adição Dinâmica: Criação de tarefas em tempo real com validação de campo vazio.
+Adição Dinâmica: Criação de tarefas em tempo real com validação de campo vazio ou checkbox desmarcado.
 
 Feedback Visual: Uso de line-through automático via CSS ao marcar uma tarefa como concluída.
 
